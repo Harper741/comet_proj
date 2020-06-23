@@ -4,3 +4,5 @@ trials with the first 100 images, no further criteria
 5:
 100, drawn by sorting the images in order of increasing RA then getting every 13th image so they will be spread out in RA
 
+6:
+100, drawn by sorting the images in order of increasing RA then getting every 13th image so they will be spread out in RA, but we converted the walkers’ starting points to km rather than AU, which corrects a mistake.
