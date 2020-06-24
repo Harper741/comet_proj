@@ -1,8 +1,17 @@
 1-4
 trials with the first 100 images, no further criteria
 
-5:
+5_h:
 100, drawn by sorting the images in order of increasing RA then getting every 13th image so they will be spread out in RA
 
-6:
+6_h:
 100, drawn by sorting the images in order of increasing RA then getting every 13th image so they will be spread out in RA, but we converted the walkers’ starting points to km rather than AU, which corrects a mistake.
+
+7_h:
+same image selection method, but with 145 images
+
+8_h:
+same image selection method, but with 77 images
+
+
+
