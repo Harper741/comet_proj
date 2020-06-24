@@ -13,5 +13,5 @@ same image selection method, but with 145 images
 8_h:
 same image selection method, but with 77 images
 
-
-
+9_h:
+same as 6_h, but with 30 integration points
