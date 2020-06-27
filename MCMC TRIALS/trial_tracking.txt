@@ -2,16 +2,18 @@
 trials with the first 100 images, no further criteria
 
 5_h:
-100, drawn by sorting the images in order of increasing RA then getting every 13th image so they will be spread out in RA
+100, drawn by sorting the images in order of increasing RA then getting every 13th image so they will be spread out in RA, 50 integration points
 
 6_h:
-100, drawn by sorting the images in order of increasing RA then getting every 13th image so they will be spread out in RA, but we converted the walkers’ starting points to km rather than AU, which corrects a mistake.
+100, drawn by sorting the images in order of increasing RA then getting every 13th image so they will be spread out in RA, but we converted the walkers’ starting points to km rather than AU, which corrects a mistake, 50 integration points
 
 7_h:
-same image selection method, but with 145 images
+same image selection method, but with 145 images, 50 integration points
+
 
 8_h:
-same image selection method, but with 77 images
+same image selection method, but with 77 images, 50 integration points
+
 
 9_h:
 same as 6_h, but with 30 integration points
