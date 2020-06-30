@@ -23,3 +23,6 @@ same as 6_h, but with 80 integration points and 163 images
 
 11_h:
 50 integration points, 700 iterations, 100 images selected as in 6_h, with larger std. dev. on the intial position of the walkers.
+
+12_h:
+same as 11_h but with 1400 (2X) iterations
