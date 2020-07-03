@@ -26,3 +26,6 @@ same as 6_h, but with 80 integration points and 163 images
 
 12_h:
 same as 11_h but with 1400 (2X) iterations
+
+13_h:
+700 iterations, 20 walkers, half the images, similar to 12_h
